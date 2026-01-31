@@ -10,7 +10,7 @@
 - TA0011 → COMANDO Y CONTROL 
 
 > [!NOTE]
-> **Recomiendo descargar el archivo Tomcat Takeover.pdf para una mejor visualizacion al momento de revisar el documento.**
+> **Recomiendo descargar el archivo "Desarollo - Tomcat Takeover.pdf" para una mejor visualizacion al momento de revisar el documento.**
 
 
 ¡Completé con éxito el laboratorio del equipo azul Tomcat Takeover en @CyberDefenders! https://cyberdefenders.org/blueteam-ctf-challenges/achievements/Sebanalyst/tomcat-takeover/
