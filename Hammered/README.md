@@ -11,4 +11,4 @@
 - DESCUBRIMIENTO → System Information Discovery → T1082
 
 > [!NOTE]
-> **Puedes descargar el archivo "Desarollo - Hammered.pdf y SEC_Analyst_Hammered.pdf"**
+> **El desarollo e informe de este laboratorio se encuentran subidos en formato PDF**
