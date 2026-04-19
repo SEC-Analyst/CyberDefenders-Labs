@@ -1,4 +1,4 @@
-**Endpoint Forensics**
+Categoria: **Endpoint Forensics**
 
 **Análisis de respuesta a incidentes tras la vulneración de un servidor Linux (CyberDefenders Hammered Lab). Este proyecto demuestra la identificación de las técnicas del atacante, los mecanismos de persistencia y la reconstrucción de la cronología del ataque mediante registros (Logs) del sistema.**
 
@@ -13,3 +13,5 @@
 - Command and Control → Proxy →  T1090
 - Credential Access → Unsecured Credentials → T1552
  
+> [!NOTE]
+> **El desarrollo e informe del laboratorio estan subidos como archivos PDF**
