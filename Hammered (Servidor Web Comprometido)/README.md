@@ -2,7 +2,7 @@
 
 Categoria: **Endpoint Forensics**
 
-**Análisis de respuesta a incidentes tras la vulneración de un servidor web Linux. Este proyecto demuestra la identificación de las técnicas del atacante, los mecanismos de persistencia y la reconstrucción de la cronología del ataque mediante registros (Logs) del sistema.**
+**Análisis de respuesta a incidentes tras la vulneración de un servidor web Linux. Este proyecto demuestra la identificación de las técnicas del atacante, los mecanismos de persistencia y la reconstrucción de la cronología del ataque mediante registros (Logs) de un sistema Linux.**
 
 **MITRE ATT&CK® Framework**
 - Initial Access → Brute Force → T1110
