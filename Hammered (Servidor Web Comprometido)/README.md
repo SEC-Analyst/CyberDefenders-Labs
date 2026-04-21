@@ -2,7 +2,7 @@
 
 Categoria: **Endpoint Forensics**
 
-**Análisis de respuesta a incidentes tras la vulneración de un servidor web Linux (CyberDefenders Hammered Lab). Este proyecto demuestra la identificación de las técnicas del atacante, los mecanismos de persistencia y la reconstrucción de la cronología del ataque mediante registros (Logs) del sistema.**
+**Análisis de respuesta a incidentes tras la vulneración de un servidor web Linux. Este proyecto demuestra la identificación de las técnicas del atacante, los mecanismos de persistencia y la reconstrucción de la cronología del ataque mediante registros (Logs) del sistema.**
 
 **MITRE ATT&CK® Framework**
 - Initial Access → Brute Force → T1110
@@ -16,5 +16,5 @@ Categoria: **Endpoint Forensics**
 - Credential Access → Unsecured Credentials → T1552
  
 > [!NOTE]
-> **El desarrollo e informe del laboratorio estan subidos como archivos PDF**
+> **El desarrollo e informe del proyecto estan subidos como archivos PDF**
 
